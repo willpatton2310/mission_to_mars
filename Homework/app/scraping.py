@@ -28,7 +28,7 @@ def scrape_all():
     }
 
     #stop webdriver and return data
-    browser.quit()
+   
     return data
 
 def mars_news(browser):
